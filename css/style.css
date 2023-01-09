@@ -2,3 +2,10 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.esta_clase_es_de_prueba{
+    width: 100%;
+    text-align: center;
+    color: red;
+    border: 0px solid red;
+}
